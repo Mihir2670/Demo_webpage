@@ -1,2 +1,2 @@
-# Demo_webpage
-This is a company demo webpage 
+# Company_webpage
+This is a company webpage made using HTML, CSS and Bootstrap
